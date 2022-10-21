@@ -29,7 +29,7 @@
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
 </div>
-
+<br>
 <p align="center">Languages | 🇧🇷 🇵🇹 Portuguese - Native | 🇺🇸 🇬🇧 English - Fluent</p>
 
 ![Snake animation](https://github.com/WesleyHanauer/WesleyHanauer/blob/output/github-contribution-grid-snake.svg)
