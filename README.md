@@ -30,7 +30,7 @@
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
 </div>
 
-<p align="center"><strong>Languages | 🇧🇷 🇵🇹 Portuguese - Native | 🇺🇸 🇬🇧 English - Fluent</strong></p>
+<div align="center"><b>Languages | 🇧🇷 🇵🇹 Portuguese - Native | 🇺🇸 🇬🇧 English - Fluent</b></div>
 
 ![Snake animation](https://github.com/WesleyHanauer/WesleyHanauer/blob/output/github-contribution-grid-snake.svg)
 
