@@ -27,6 +27,7 @@
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
 </div>
 
 <p align="center"><strong>Languages | 🇧🇷 🇵🇹 Portuguese - Native | 🇺🇸 🇬🇧 English - Fluent</strong></p>
