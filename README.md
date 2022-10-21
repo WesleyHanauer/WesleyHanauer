@@ -35,6 +35,6 @@
 ![Snake animation](https://github.com/WesleyHanauer/WesleyHanauer/blob/output/github-contribution-grid-snake.svg)
 
 <div><a href="https://github.com/WesleyHanauer">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyHanauer&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyHanauer&show_icons=true&theme=radical"&include_all_commits=true&count_private=true"></a>
 <a href="https://github.com/WesleyHanauer">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyHanauer&layout=compact&langs_count=7&theme=highcontrast"></a></div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyHanauer&layout=compact&langs_count=7&theme=radical"></a></div>
