@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 
 <div align="center">
-<h3>💻 Programming languages 💻</h3>
+<h3>💻 Programming and markup 💻</h3>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
