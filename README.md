@@ -37,3 +37,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyHanauer&show_icons=true&theme=radical"&include_all_commits=true&count_private=true"></a>
 <a href="https://github.com/WesleyHanauer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyHanauer&layout=compact&langs_count=7&theme=radical"></a></div>
+<div align="center">
+<h1>💖 My setup 💖</h1>
+<img height="450em" src="arch.png">
+</div>
