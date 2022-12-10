@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<h3>✨ Software ✨</h3>
+<h3>✨ Text editors and IDEs ✨</h3>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"></a>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
@@ -44,7 +44,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyHanauer&show_icons=true&theme=radical"&include_all_commits=true&count_private=true"></a>
 <a href="https://github.com/WesleyHanauer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyHanauer&layout=compact&langs_count=7&theme=radical"></a></div>
-<div align="center">
-<h1>💖 My setup 💖</h1>
-<img height="450em" src="arch.png">
-</div>
