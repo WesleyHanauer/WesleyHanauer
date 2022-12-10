@@ -1,7 +1,9 @@
 <h1 align="center">Hello world!</h1>
 
-<div align="justify">
+<div align="center">
 <h3>🕵️ A little more about me 🕵️</h3>
+</div>
+<div align="justify">
 <p>My name is Wesley Hanauer, I am an 18 years old from the south of Brazil, I'm currently looking for a job as an intern at a tech company near where I live, in order for me to get my high school+IT course diploma. After it's all done my main goal would be to get a remote IT related job overseas.</p>
 </div>
 
