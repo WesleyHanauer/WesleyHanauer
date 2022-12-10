@@ -3,6 +3,9 @@
 <div align="center">
 <h3>🕵️ A little more about me 🕵️</h3>
 </div>
+<div align="center">
+<a href="https://www.linkedin.com/in/wesleyhanauer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 <div align="justify">
 <p>My name is Wesley Hanauer, I am an 18 years old from the south of Brazil, I'm currently looking for a job as an intern at a tech company near where I live, in order for me to get my high school+IT course diploma. After it's all done my main goal would be to get a remote IT related job overseas.</p>
 </div>
@@ -27,6 +30,13 @@
 <div align="center">
 <h3>⚡ Databases ⚡</h3>
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</div>
+
+<div align="center">
+<h3>👨‍💻 My linux experience 👨‍💻</h3>
+<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
+<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"></a>
 </div>
 
 <div align="center">
