@@ -6,7 +6,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/wesleyhanauer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-<div align="justify">
+<div align="center">
 <p>My name is Wesley Hanauer, I am an 18 years old from Brazil, currently seeking to work as an intern.</p>
 </div>
 
