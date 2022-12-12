@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/wesleyhanauer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <div align="justify">
-<p>My name is Wesley Hanauer, I am an 18 years old from the south of Brazil, I'm currently looking for a job as an intern at a tech company near where I live, in order for me to get my high school+IT course diploma. After it's all done my main goal would be to get a remote IT related job overseas.</p>
+<p>My name is Wesley Hanauer, I am an 18 years old from Brazil, currently seeking to work as an intern.</p>
 </div>
 
 <div align="center">
