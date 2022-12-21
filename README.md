@@ -54,12 +54,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyHanauer&show_icons=true&theme=radical"&include_all_commits=true&count_private=true"></a>
 <a href="https://github.com/WesleyHanauer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyHanauer&layout=compact&langs_count=7&theme=radical"></a></div>
-
-<div align="center">
-<h2>🎮 After all, we are gamers! 🎮</h2>
-<a href="https://steamcommunity.com/id/wesleyh47/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>   <a href="https://discord.com/users/1050231956052385873"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<br>
-<h3>My gaming rig</h3>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/AMD-Ryzen_5_2400G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-</div>                                                                                                                                                 
