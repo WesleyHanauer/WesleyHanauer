@@ -46,7 +46,7 @@
 <a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 </div>
 <br>
-<strong><p align="center">Languages | 🇧🇷 🇵🇹 Portuguese - Native | 🇺🇸 🇬🇧 🇦🇺 English - Fluent</p></strong>
+<strong><p align="center">Languages | 🇧🇷 🇵🇹 Portuguese - Native | 🇺🇸 🇬🇧 🇦🇺 English - Advanced</p></strong>
 
 ![Snake animation](https://github.com/WesleyHanauer/WesleyHanauer/blob/output/github-contribution-grid-snake.svg)
 
