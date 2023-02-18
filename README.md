@@ -1,38 +1,28 @@
-<h1 align="center">Hello world!</h1>
+## About Me
 
-<div align="center">
-<a href="https://www.linkedin.com/in/wesleyhanauer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+<b>Hi there 👋</b>
 
-<div align="center">
-<h3>💻 Programming and markup 💻</h3>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-</div>
+My name is Wesley Hanauer, and I have a passion for Back-end development. I am actively seeking a role in the field of software development, web development, or software engineering.
 
-<div align="center">
-<h3>✨ Text editors and IDEs ✨</h3>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-</div>
+## Skills
+### Back-end
+- C++
+- C#
+- Java
+- PHP
+- SQL (MySQL)
+### Front-end
+- JavaScript
+- CSS
+- HTML
 
-<div align="center">
-<h3>⚡ Databases ⚡</h3>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-</div>
+## Languages
 
-<div align="center">
-<h3>🎉 Outro 🎉</h3>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="https://github.com/WesleyHanauer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-</div>
-<br>
-<strong><p align="center">Languages | 🇧🇷 🇵🇹 Portuguese - Native | 🇺🇸 🇬🇧 🇦🇺 English - Advanced</p></strong>
+I am a native Portuguese speaker and I also speak fairly good English.
 
-<div align="center"><a href="https://github.com/WesleyHanauer">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyHanauer&show_icons=true&theme=radical"&include_all_commits=true&count_private=true"></a></div>
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/wesleyhanauer/
+- Email: whanauerbiz@gmail.com
+
+<b>Thanks for visiting!</b>
