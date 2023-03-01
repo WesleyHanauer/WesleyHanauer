@@ -9,16 +9,18 @@ My name is Wesley Hanauer, and I have a passion for Back-end development. I am a
 - C++
 - C#
 - Java
-- PHP
-- SQL (MySQL)
-### Front-end
-- JavaScript
+### Databases
+- MySQL
+### Front-End
 - CSS
 - HTML
+### Web Development
+- JavaScript
+- PHP
 
 ## Languages
 
-I am a native Portuguese speaker and I also speak fairly good English.
+I fluent in both portuguese and english.
 
 ## Contact
 
@@ -30,4 +32,4 @@ I am a native Portuguese speaker and I also speak fairly good English.
 <div><a href="https://github.com/WesleyHanauer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyHanauer&show_icons=true&theme=dracula"&include_all_commits=true&count_private=true"></a></div>
 <br>
-- <b>Thanks for visiting!</b>
+<b>~ Thanks for visiting!</b>
