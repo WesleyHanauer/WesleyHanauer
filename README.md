@@ -20,7 +20,7 @@ My name is Wesley Hanauer, and I have a passion for Back-end development. I am a
 
 ## Languages
 
-I fluent in both portuguese and english.
+I am fluent in both portuguese and english.
 
 ## Contact
 
