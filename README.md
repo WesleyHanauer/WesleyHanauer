@@ -1,35 +1,21 @@
-## About Me
-
-<b>Hi there 👋</b>
-
-My name is Wesley Hanauer, and I have a passion for Back-end development. I am actively seeking a role in the field of software development, web development, or software engineering.
+# Hello, World!
+- I'm currently looking for either an entry level or junior position in software development, so feel free to contact me.
+- [LinkedIn](https://www.linkedin.com/in/wesleyhanauer/)
+- My professional E-mail: whanauerbiz@gmail.com
 
 ## Skills
 ### Back-end
-- C++
 - C#
 - Java
+- PHP
+### Front-end
+- HTML
+- CSS
+- JavaScript
 ### Databases
 - MySQL
-### Front-End
-- CSS
-- HTML
-### Web Development
-- JavaScript
-- PHP
 
-## Languages
-
-I am fluent in both portuguese and english.
-
-## Contact
-
-- LinkedIn: https://www.linkedin.com/in/wesleyhanauer/
-- Email: whanauerbiz@gmail.com
-
-## My stats
+<br>
 
 <div><a href="https://github.com/WesleyHanauer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyHanauer&show_icons=true&theme=dracula"&include_all_commits=true&count_private=true"></a></div>
-<br>
-<b>~ Thanks for visiting!</b>
