@@ -12,8 +12,17 @@
 - HTML
 - CSS
 - JavaScript
+- Typescript
 ### Databases
 - MySQL
+- MongoDB
+### Frameworks
+- React
+- Express
+### Outro
+- Linux (Debian based, Arch based)
+- Node
+- APIs
 
 <br>
 
