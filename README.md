@@ -1,4 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=WesleyHanauer&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=WesleyHanauer&theme=dracula" />
+</p>
 
 <!--
 **WesleyHanauer/WesleyHanauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
