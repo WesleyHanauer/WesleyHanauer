@@ -1,5 +1,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=wesleyhanauer&rank_icon=percentile&custom_title=Wesley%20Hanauer&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=percentile&custom_title=Wesley%20Hanauer&show_icons=true&include_all_commits=true&theme=codeSTACKr)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=wesleyhanauer&layout=compact&langs_count=4&hide_values=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&hide_values=true&theme=codeSTACKr)
 <!--
 **WesleyHanauer/WesleyHanauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
