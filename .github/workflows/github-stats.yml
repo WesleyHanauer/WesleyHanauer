@@ -1,19 +1,18 @@
 name: Update README cards
-
 on:
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v6
+
+      - name: Create output directory
+        run: mkdir -p profile
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
@@ -39,18 +38,18 @@ jobs:
           path: profile/pin-moracarta.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit cards
+      - name: Commit and push cards
         run: |
-          mkdir -p profile
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@://github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add profile/*.svg
-          
-          # Só cria o commit se os arquivos escuros forem realmente novos/diferentes
-          git diff --staged --quiet || git commit -m "Update README cards"
-          
-          # [AQUI!] O comando fica aqui para puxar o histórico antes de enviar
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update README cards"
           git pull --rebase origin main
-          
-          # Envia os cards escuros para o seu GitHub
           git push origin main
