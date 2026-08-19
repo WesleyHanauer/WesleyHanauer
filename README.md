@@ -3,7 +3,8 @@
 <a href="mailto:wesleyhanauer@gmail.com"><img src="https://img.shields.io/badge/wesleyhanauer@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <br><br>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=WesleyHanauer&border_radius=5.5&custom_title=My+Github+Stats&hide=followers,trend,avg,active_day)
+
+<img src="profile/stats.svg" alt="My stats"/>
 
 <!--
 
