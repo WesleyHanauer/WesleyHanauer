@@ -41,8 +41,16 @@ jobs:
 
       - name: Commit cards
         run: |
+          mkdir -p profile
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@://github.com"
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+          
+          # Só cria o commit se os arquivos escuros forem realmente novos/diferentes
+          git diff --staged --quiet || git commit -m "Update README cards"
+          
+          # [AQUI!] O comando fica aqui para puxar o histórico antes de enviar
+          git pull --rebase origin main
+          
+          # Envia os cards escuros para o seu GitHub
+          git push origin main
