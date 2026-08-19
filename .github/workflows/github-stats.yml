@@ -4,10 +4,6 @@ on:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
 
-concurrency:
-  group: readme-cards
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,9 +11,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
-
-      - name: Create output directory
-        run: mkdir -p profile
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
@@ -43,30 +36,11 @@ jobs:
           path: profile/pin-moracarta.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push cards
+      - name: Commit cards
         run: |
+          mkdir -p profile
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add profile/*.svg
-
-          if git diff --staged --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-
-          git commit -m "Update README cards"
-
-          for i in 1 2 3 4 5; do
-            git fetch origin main
-            git rebase origin/main
-            if git push origin main; then
-              echo "Push succeeded."
-              exit 0
-            fi
-            echo "Push rejected, retrying ($i)..."
-            sleep $((RANDOM % 5 + 1))
-          done
-
-          echo "Push failed after retries."
-          exit 1
+          git commit -m "Update README cards" || exit 0
+          git push
