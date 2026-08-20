@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,23 +10,20 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
-
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&rank_icon=percentile
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          token: ${{ secrets.STATS_TOKEN }}
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=github_dark_dimmed
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          token: ${{ secrets.STATS_TOKEN }}
       - name: Generate pin card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -35,7 +31,6 @@ jobs:
           options: username=WesleyHanauer&repo=moracarta&theme=github_dark_dimmed
           path: profile/pin-moracarta.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit cards
         run: |
           mkdir -p profile
